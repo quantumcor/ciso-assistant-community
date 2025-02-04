@@ -1,5 +1,5 @@
 <script lang="ts">
-	import ciso from '$lib/assets/ciso.svg';
+	import ciso from '$lib/assets/logo.svg';
 
 	export let height = 200;
 	export let width = 200;

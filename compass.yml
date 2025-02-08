@@ -1,0 +1,16 @@
+name: ciso-assistant-community
+id: ari:cloud:compass:510080db-9e42-466b-a109-f8d0d7406857:component/0cf78081-bddc-446a-8f66-193ed1efc2b2/852a7676-4e90-4dc2-babb-f635be702f54
+description: 'CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more'
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/QauntumCor/ciso-assistant-community
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
